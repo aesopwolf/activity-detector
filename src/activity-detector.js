@@ -15,7 +15,7 @@ const DEFAULT_ACTIVITY_EVENTS = [
     'focus',
 ];
 
-const DEFAULT_INACTIVITY_EVENTS = ['blur'];
+const DEFAULT_INACTIVITY_EVENTS = [];
 
 const DEFAULT_IGNORED_EVENTS_WHEN_IDLE = ['mousemove'];
 
